@@ -1,0 +1,4 @@
+setuptools>=68.0.0
+selenium>=4.0.0
+webdriver-manager>=4.0.0
+pyyaml>=6.0.0

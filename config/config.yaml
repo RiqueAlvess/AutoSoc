@@ -1,0 +1,10 @@
+browser:
+  headless: false
+  timeout: 10
+  
+soc:
+  url: "https://sistema.soc.com.br/WebSoc/"
+  
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
