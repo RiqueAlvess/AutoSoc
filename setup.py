@@ -11,7 +11,7 @@ setup(
         "pyyaml>=6.0.0",
     ],
     python_requires=">=3.8",
-    author="SEU_NOME",
+    author="HENRIQUE ALVES SIQUEIRA",
     description="Framework de automação para Sistema SOC com Selenium",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
