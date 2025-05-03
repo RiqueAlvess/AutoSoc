@@ -9,6 +9,7 @@ setup(
         "selenium>=4.0.0",
         "webdriver-manager>=4.0.0",
         "pyyaml>=6.0.0",
+        "setuptools>=68.0.0",
     ],
     python_requires=">=3.8",
     author="HENRIQUE ALVES SIQUEIRA",
