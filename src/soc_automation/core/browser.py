@@ -66,3 +66,10 @@ class Browser:
         if not self.driver:
             self.start()
         return HomePage(self.driver)
+    
+    def get_funcionario_operations(self):
+        """Retorna instância de operações de funcionário."""
+        from ..operations.funcionario_operations import FuncionarioOperations
+        if not self.driver:
+            self.start()
+        return FuncionarioOperations(self)

@@ -11,9 +11,9 @@ setup(
         "pyyaml>=6.0.0",
     ],
     python_requires=">=3.8",
-    author="HENRIQUE ALVES SIQUEIRA",
+    author="SEU_NOME",
     description="Framework de automação para Sistema SOC com Selenium",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/RiqueAlvess/AutoSoc",
+    url="https://github.com/seu-usuario/soc-automation-framework",
 )
